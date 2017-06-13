@@ -2,9 +2,9 @@
 permalink:           pretty
 
 # Setup
-title:               Jami Gibbs
-tagline:             Frontend Developer and Designer from Chicago.
-url:                 http://jamigibbs.com
+title:               Personal Portfolio
+tagline:             Fork me and create your own.
+url:                 https://refugees-code.github.io/portfolio/
 paginate:            1
 baseurl:             ""
 
@@ -17,18 +17,18 @@ sass:
 
 # About/contact
 author:
-  name:              Jami Gibbs
-  url:               https://twitter.com/jamigibbs
-  email:             jami0821@gmail.com
+  name:              Dario Seidl
+  url:               https://github.com/darioseidl
+  email:
 
 # Custom vars
 version:             1.0.0
 github:
-  repo:              https://github.com/jamigibbs/portfolio
-google_analytics:    UA-3363703-15
-twitter:             jamigibbs
-github:              jamigibbs
-dribbble:            jamigibbs
+  repo:              https://github.com/Refugees-Code/portfolio
+google_analytics:
+twitter:
+github:              refugees-code
+dribbble:
 
 # Gems
 gems:
